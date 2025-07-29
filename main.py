@@ -16,7 +16,7 @@ from sklearn.preprocessing import (
     OneHotEncoder,
 )
 
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="DataClean Pro", page_icon="📊", layout="wide")
 
 
 # --- Session State Initialization ---
