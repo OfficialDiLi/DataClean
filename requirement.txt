@@ -43,7 +43,7 @@ pandas==2.2.3
 patsy==1.0.1
 phik==0.12.5
 pillow==11.1.0
-plotly==6.2.0
+plotly==5.18.0
 protobuf==5.29.3
 puremagic==1.30
 pyarrow==19.0.0
